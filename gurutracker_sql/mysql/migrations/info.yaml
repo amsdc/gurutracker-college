@@ -1,0 +1,4 @@
+database: mysql
+revisionstart: 1
+revisionend: 4 # inclusive
+filefmt: migration_{:04d}.sql
